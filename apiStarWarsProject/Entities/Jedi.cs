@@ -6,7 +6,10 @@ namespace apiStarWarsProject
         public string JediName { get; set;}
 
         // Relacion con tabla JediRank -- Relation with JediRank table
-        public int JediRank {get; set;}
+        public int JediRankId {get; set;}
         public virtual JediRank JediRankReference { get; set;}
+
+        public int ArmyDivisionJedi {get; set;}
+        public virtual ArmyDivision ArmyDivisionJediReference { get; set;}
     }
 }
