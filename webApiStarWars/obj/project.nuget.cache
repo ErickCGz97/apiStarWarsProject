@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1wDpUwOR/D4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cabre\\OneDrive\\Escritorio\\Proyectos .NET\\apiStarWarsProject\\webApiStarWars\\webApiStarWars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cabre\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\cabre\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
