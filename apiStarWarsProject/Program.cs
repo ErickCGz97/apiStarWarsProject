@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using apiStarWarsProject.Context;
+using apiStarWarsProject.Services;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,6 +16,9 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<ApplicationDbContext>(options => 
     options.UseSqlServer(builder.Configuration.GetConnectionString("conexionDB"))
 );
+
+//Services
+builder.Services.AddScoped<ArmyDivisionService>();
 
 var app = builder.Build();
 

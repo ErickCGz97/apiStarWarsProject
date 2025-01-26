@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("apiStarWarsProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a42d46e702447d14b8f0a279643d85b6a98a6212")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+999d6389e87349d19e9500f46f90ac1def2ad222")]
 [assembly: System.Reflection.AssemblyProductAttribute("apiStarWarsProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("apiStarWarsProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
