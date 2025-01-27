@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "vrE0vYG74NNuecabVqlOTe2Z/SREwtzOhzkTEIMMeQk=",
+  "Hash": "45WmFlCSQINPC3k/KQTZ08Eh5ysdZu2Ki340JTqxFWM=",
   "Source": "apiStarWarsProject",
   "BasePath": "_content/apiStarWarsProject",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

@@ -1,6 +1,5 @@
 C:\Users\cabre\OneDrive\Escritorio\Proyectos .NET\apiStarWarsProject\apiStarWarsProject\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\cabre\OneDrive\Escritorio\Proyectos .NET\apiStarWarsProject\apiStarWarsProject\bin\Debug\net6.0\appsettings.json
-C:\Users\cabre\OneDrive\Escritorio\Proyectos .NET\apiStarWarsProject\apiStarWarsProject\bin\Debug\net6.0\apiStarWarsProject.staticwebassets.endpoints.json
 C:\Users\cabre\OneDrive\Escritorio\Proyectos .NET\apiStarWarsProject\apiStarWarsProject\bin\Debug\net6.0\apiStarWarsProject.exe
 C:\Users\cabre\OneDrive\Escritorio\Proyectos .NET\apiStarWarsProject\apiStarWarsProject\bin\Debug\net6.0\apiStarWarsProject.deps.json
 C:\Users\cabre\OneDrive\Escritorio\Proyectos .NET\apiStarWarsProject\apiStarWarsProject\bin\Debug\net6.0\apiStarWarsProject.runtimeconfig.json
@@ -21,9 +20,7 @@ C:\Users\cabre\OneDrive\Escritorio\Proyectos .NET\apiStarWarsProject\apiStarWars
 C:\Users\cabre\OneDrive\Escritorio\Proyectos .NET\apiStarWarsProject\apiStarWarsProject\obj\Debug\net6.0\scopedcss\bundle\apiStarWarsProject.styles.css
 C:\Users\cabre\OneDrive\Escritorio\Proyectos .NET\apiStarWarsProject\apiStarWarsProject\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\cabre\OneDrive\Escritorio\Proyectos .NET\apiStarWarsProject\apiStarWarsProject\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\cabre\OneDrive\Escritorio\Proyectos .NET\apiStarWarsProject\apiStarWarsProject\obj\Debug\net6.0\staticwebassets.build.endpoints.json
 C:\Users\cabre\OneDrive\Escritorio\Proyectos .NET\apiStarWarsProject\apiStarWarsProject\obj\Debug\net6.0\staticwebassets\msbuild.apiStarWarsProject.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\cabre\OneDrive\Escritorio\Proyectos .NET\apiStarWarsProject\apiStarWarsProject\obj\Debug\net6.0\staticwebassets\msbuild.apiStarWarsProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\cabre\OneDrive\Escritorio\Proyectos .NET\apiStarWarsProject\apiStarWarsProject\obj\Debug\net6.0\staticwebassets\msbuild.build.apiStarWarsProject.props
 C:\Users\cabre\OneDrive\Escritorio\Proyectos .NET\apiStarWarsProject\apiStarWarsProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.apiStarWarsProject.props
 C:\Users\cabre\OneDrive\Escritorio\Proyectos .NET\apiStarWarsProject\apiStarWarsProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.apiStarWarsProject.props

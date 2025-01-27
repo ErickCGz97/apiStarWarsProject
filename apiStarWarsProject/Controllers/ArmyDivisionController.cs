@@ -1,3 +1,4 @@
+using apiStarWarsProject.DTOs;
 using apiStarWarsProject.Services;
 using Microsoft.AspNetCore.Mvc;
 
@@ -19,6 +20,14 @@ namespace apiStarWarsProject{
         public async Task<IActionResult> Get()
         {
             return Ok(await _armyDivisionService.GetDivisions());
+        }
+
+        [HttpPost]
+        [Route("Create")]
+        public async Task<ActionResult> Guardar(ArmyDivisionDTO armyDivisionDTO)
+        {
+            var _result = await _armyDivisionService.CreateArmyDivision(armyDivisionDTO);
+            return Ok(_result);
         }
     }
 }

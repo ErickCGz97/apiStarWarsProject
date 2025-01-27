@@ -17,8 +17,12 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("conexionDB"))
 );
 
-//Services
+//Inicia uso de servicios
 builder.Services.AddScoped<ArmyDivisionService>();
+builder.Services.AddScoped<TrooperRankService>();
+builder.Services.AddScoped<TrooperStatusService>();
+
+// Fin de uso de servicios
 
 var app = builder.Build();
 

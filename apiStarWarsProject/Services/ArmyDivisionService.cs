@@ -28,5 +28,18 @@ namespace apiStarWarsProject.Services
             }
             return totalDivisions;
         }
+
+        public async Task<string> CreateArmyDivision(ArmyDivisionDTO armyDivisionDTO)
+        {
+            var _armyDivision = new ArmyDivision
+            {
+                ArmyDivisionName = armyDivisionDTO.ArmyDivisionName
+            };
+
+            await _context.armyDivisions.AddAsync(_armyDivision);
+            await _context.SaveChangesAsync();
+
+            return "Army Division created successfully";
+        }
     }
 }
