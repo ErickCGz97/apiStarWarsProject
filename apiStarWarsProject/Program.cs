@@ -21,6 +21,8 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddScoped<ArmyDivisionService>();
 builder.Services.AddScoped<TrooperRankService>();
 builder.Services.AddScoped<TrooperStatusService>();
+builder.Services.AddScoped<JediRankService>();
+builder.Services.AddScoped<JediService>();
 
 // Fin de uso de servicios
 
