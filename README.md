@@ -21,7 +21,7 @@ Al estar en un conflicto de grandes proporciones, es normal que muchos clones pe
   Codigo de identificacion, Nombre
 
  Proyecto: apiStarWarsProject
- Autor: Erick Cabrera (erickcabrera.dev@outlook.com)
+ Autor: Erick Cabrera 
  Fecha: Viernes 24/01/2025
 
 HERRAMIENTAS:
@@ -30,30 +30,30 @@ HERRAMIENTAS:
         GitHub             (Repositorio remoto del proyecto)
 
 TECOLOGIAS Y VERSIONES UTLIZADAS:
-    .NET 8.0
+    .NET 6.0
     Entity Framework 
         Entity Framework Core Tools         8.0.12
         Entity Framework Core SQL Server    8.0.12
 
 AVANCE DEL PROYECTO:
- *  Parte 1: Creación del proyecto                                          24/01/2025 20:00 pm
 
- *  Parte 2: Modelado y creación de las bases de datos                      00/01/2025 00:00
-                Creación de Entidades (Clases)
-                Instalación de paquetes NuGet
-                Creación de Contexto y modelado para la base de datos
-                    Relaciones entre tablas
-                Conexión a la base de datos
-                Generación de migraciones para la base de datos
+Parte 1: Creación del proyecto 24/01/2025 20:00 pm
 
-*   Parte 3: API Básico: Crear Api Controlador - Perfil                     00/01/2025 00:00
-                Creación del controlador
-                Métodos Http Get
-                Creación de DTO para manejo de información precisa
+Parte 2: Modelado y creación de las bases de datos 25/01/2025 17:33 
+    Creación de Entidades (Clases) 
+    Instalación de paquetes NuGet 
+    Creación de Contexto y modelado para la base de datos 
+    Conexión a la base de datos 
+    Generación de migraciones para la base de datos
 
-*   Parte 4: API Solicitudes HTTP: Crear Api Controlador - Empleado        00/01/2025 00:00
-                Creación de métodos faltantes
-                Creación de servicios, para evitar demasiada lógica en los controladores
+Parte 3: Crear Api Controlador 
+    Creación del controlador
+    Creación de DTO para manejo de información precisa
 
-*   Finalización del proyecto                                              00/01/2025 00:00
+Parte 4: API Solicitudes HTTP: Crear Api Controlador - 
+Creación de servicios,
+
+Finalización del proyecto 28/01/2025 19:02
+
+                                          00/01/2025 00:00
 
