@@ -64,7 +64,7 @@ namespace apiStarWarsProject.Services
             
             jediDB.JediName = jediDTO.JediNameDTO;
             jediDB.JediRankId = jediDTO.JediRankIdDTO;
-            jediDB.ArmyDivisionJedi = (int)jediDTO.ArmyDivisionJediDTO;
+            jediDB.ArmyDivisionJedi = jediDTO.ArmyDivisionJediDTO;
 
             _context.jedis.Update(jediDB);
             await _context.SaveChangesAsync();
